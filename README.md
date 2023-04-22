@@ -20,9 +20,9 @@ import Embed from '@editorjs/embed';
 import { xvideosUrl, xvideosEmbed } from 'editorjs-embed-xvideos';
 
 /*
-  xvideosUrl - https://www.xvideos.com/video57180129/the_less_i_know_the_better_sexy_rk777.exe
+  xvideosUrl example - https://www.xvideos.com/video57180129/the_less_i_know_the_better_sexy_rk777.exe
 
-  xvideosEmbed - https://www.xvideos.com/embedframe/57180129
+  xvideosEmbed example - https://www.xvideos.com/embedframe/57180129
 */
 
 new EditorJS({
